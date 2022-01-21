@@ -1,5 +1,6 @@
 # Leaflet.SmoothWheelZoom
-smooth wheel zoom for leaflet.
+This solution is based on the [repo](https://github.com/mutsuyuki/Leaflet.SmoothWheelZoom).</br>
+Smooth wheel zoom for Leaflet.</br>
 
 This plugin provide smooth zoom ux like Google map.
 
@@ -12,10 +13,6 @@ var map = L.map('map', {
   smoothSensitivity: 1,   // zoom speed. default is 1
 });
 ```
-
-
-![demo](./demo_gif/demo.gif "demo")
-
 
 ### Demo 
 [Demo](https://mutsuyuki.github.io/Leaflet.SmoothWheelZoom/)
